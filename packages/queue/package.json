@@ -1,0 +1,7 @@
+{
+    "name": "queue",
+    "dependencies": {
+        "@types/node": "^17.0.40",
+        "bullmq": "^1.85.3"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "repro-bullmq",
+  "version": "0.1.0",
+  "description": "Repro",
+  "type": "commonjs",
+  "private": true,
+  "packageManager": "yarn@3.2.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build:ts": "tsc --build --force tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}

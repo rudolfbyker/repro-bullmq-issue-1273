@@ -4,6 +4,11 @@
             "path": "./packages/queue"
         }
     ],
-    "files": [],
-    "include": []
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./dist"
+    },
+    "exclude": [
+        "packages"
+    ]
 }

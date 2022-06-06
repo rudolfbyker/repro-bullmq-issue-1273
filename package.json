@@ -13,5 +13,8 @@
   },
   "devDependencies": {
     "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "bullmq": "^1.85.3"
   }
 }

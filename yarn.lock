@@ -887,7 +887,6 @@ __metadata:
   resolution: "queue@workspace:packages/queue"
   dependencies:
     "@types/node": ^17.0.40
-    bullmq: ^1.85.3
   languageName: unknown
   linkType: soft
 
@@ -929,6 +928,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "repro-bullmq@workspace:."
   dependencies:
+    bullmq: ^1.85.3
     typescript: ^4.7.3
   languageName: unknown
   linkType: soft

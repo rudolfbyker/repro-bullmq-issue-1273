@@ -13,5 +13,8 @@
   },
   "devDependencies": {
     "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "@types/ioredis": "^4.28.10"
   }
 }
